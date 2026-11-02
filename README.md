@@ -25,8 +25,6 @@ A Telegram bot that helps students keep track of outstanding coursework, schedul
 ### 🧩 My toolkit
 
 ![Python](https://img.shields.io/badge/Python-6CBFD9?style=for-the-badge&logo=python&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram-82CDE4?style=for-the-badge&logo=telegram&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-8C9BA1?style=for-the-badge&logo=github&logoColor=white)
 
 ### 📡 Get in touch
 
