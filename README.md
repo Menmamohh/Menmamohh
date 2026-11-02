@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/344727988?v=4" alt="Menma's avatar" width="110">
+  <img src="./geek-card.png" alt="Menma winks with a coffee: automate all the things; sleep.exe not responding" width="75%">
 </p>
 
 <h3 align="center">Hey, I'm Menma 👋</h3>
